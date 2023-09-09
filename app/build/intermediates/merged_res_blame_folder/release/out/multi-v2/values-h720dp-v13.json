@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.anilerbil.thebookoffood.app-mergeReleaseResources-53:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/anil.erbil/.gradle/caches/transforms-3/3b466bdacd941908a557e4471673ffad/transformed/appcompat-1.5.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

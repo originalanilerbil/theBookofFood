@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.anilerbil.thebookoffood.app-mergeDebugResources-54:/layout/fragment_food_detail_.xml",
+        "source": "com.anilerbil.thebookoffood.app-main-57:/layout/fragment_food_detail_.xml"
+    },
+    {
+        "merged": "com.anilerbil.thebookoffood.app-mergeDebugResources-54:/layout/food_recycler_view.xml",
+        "source": "com.anilerbil.thebookoffood.app-main-57:/layout/food_recycler_view.xml"
+    },
+    {
+        "merged": "com.anilerbil.thebookoffood.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.anilerbil.thebookoffood.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.anilerbil.thebookoffood.app-mergeDebugResources-54:/layout/fragment_food_list_.xml",
+        "source": "com.anilerbil.thebookoffood.app-main-57:/layout/fragment_food_list_.xml"
+    }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/thebookoffood_graph"
+    app:startDestination="@id/foodList_Fragment">
+
+    <fragment
+        android:id="@+id/foodList_Fragment"
+        android:name="com.anilerbil.thebookoffood.FoodListFragment"
+        android:label="FoodList_Fragment" >
+        <action
+            android:id="@+id/action_foodList_Fragment_to_foodDetail_Fragment"
+            app:destination="@id/foodDetail_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/foodDetail_Fragment"
+        android:name="com.anilerbil.thebookoffood.FoodDetailFragment"
+        android:label="FoodDetail_Fragment" >
+        <action
+            android:id="@+id/action_foodDetail_Fragment_to_foodList_Fragment"
+            app:destination="@id/foodList_Fragment" />
+        <argument
+            android:name="besinId"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+</navigation>

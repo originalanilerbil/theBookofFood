@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_foodDetail_Fragment_to_foodList_Fragment
+id action_foodList_Fragment_to_foodDetail_Fragment
+id errorId
+id foodDetail_Fragment
+id foodListRecyclerViewId
+id foodList_Fragment
+id fragmentContainerView
+id imageView
+id progressBarId
+id swiperefreshlayoutId
+id textView
+id textView2
+id thebookoffood_graph
+layout activity_main
+layout food_recycler_view
+layout fragment_food_detail_
+layout fragment_food_list_
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation thebookoffood_graph
+string app_name
+string hello_blank_fragment
+style Theme.TheBookofFood
+xml backup_rules
+xml data_extraction_rules
